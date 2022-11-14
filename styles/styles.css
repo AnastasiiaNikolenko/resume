@@ -7,14 +7,14 @@ body {
 .Main {
     display: flex;
     flex-direction: row-reverse;
-    width: 1200px;
-    margin: 0 auto;
+    max-width: 1400px;
+    margin: auto;
 }
 
 .Main_content {
     background-color: #FFFFFF;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-    padding: 20px 60px;
+    padding: 30px 50px;
 }
 
 /* about styles */
@@ -45,7 +45,7 @@ body {
     font-size: 27px;
     line-height: 30px;
     color: #000000;
-    width: 720px;
+    width: 700px;
 }
 
 /* projects styles */
@@ -193,11 +193,11 @@ body {
 .Sidebar {
     background-color: #394e6f;
     padding-top: 32px;
-    width: 390px;
+    width: 400px;
 }
 
 .photo {
-    width: 390px;
+    width: 400px;
     margin-bottom: 32px;
 }
 
@@ -218,7 +218,6 @@ body {
 
 .sidebar_title {
     color: #FFFFFF;
-    font-style: normal;
     font-weight: bold;
     font-size: 26px;
     line-height: 30px;
@@ -226,7 +225,6 @@ body {
 }
 
 .contact_type {
-    font-style: normal;
     font-weight: bold;
     font-size: 26px;
     line-height: 28px;
