@@ -7,14 +7,14 @@ body {
 .Main {
     display: flex;
     flex-direction: row-reverse;
-    width: 1300px;
+    width: 1200px;
     margin: 0 auto;
 }
 
 .Main_content {
     background-color: #FFFFFF;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-    padding: 30px 60px;
+    padding: 20px 60px;
 }
 
 /* about styles */
@@ -56,7 +56,7 @@ body {
 
 .project_list {
     padding: 0;
-    margin-left: 15px;
+    margin-left: 20px;
 }
 
 .title {
@@ -85,13 +85,13 @@ body {
 }
 
 .project_link {
-    margin-left: 10px;
+    margin-left: 15px;
 }
 
 .project_brecket {
     font-weight: 700;
     font-size: 26px;
-    line-height: 30px;
+    line-height: 28px;
     color: #000000;
 }
 
@@ -131,7 +131,7 @@ body {
 
 .work_list {
     padding: 0;
-    margin-left: 15px;
+    margin-left: 20px;
 }
 
 .work_list_item {
